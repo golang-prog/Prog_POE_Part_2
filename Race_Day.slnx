@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Race_Day.Test/Race_Day.Test.csproj" Id="dad6f986-c437-408b-86cd-e8c66a75d4ff" />
+  <Project Path="Race_Day/Race_Day.csproj" />
+</Solution>
